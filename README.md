@@ -15,6 +15,12 @@ This tutorial shows how to set up a basic temperature and humidity sensor using 
 ## Create Arduino Circuit:
 - Open the **DHT_basic_bb.pdf**  
  
+ 
+ ## IDE Code:
+ - Double click the **DHT_basic.ino** file from your download and say Yes to the Arduino IDE pop-up window.
+ - The file should open directly in your Arduino IDE application
+ - Click the *Compile* button to be sure the code has no bugs, then plug in your Arduino circuit and *Upload* the code
+ 
  <br/>
  <br/>
  <br/>
