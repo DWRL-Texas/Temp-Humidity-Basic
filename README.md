@@ -14,7 +14,10 @@ This tutorial shows how to set up a basic temperature and humidity sensor using 
 
 ## Create Arduino Circuit:
 - Open the **DHT_basic_bb.pdf**  
-
+  
+    
+      
+      
 
 ### Ranges and Accuracy of the DHT11:
 
