@@ -4,7 +4,6 @@ This tutorial shows how to set up a basic temperature and humidity sensor using 
 ## Parts:
 - DHT11 sensor
 - Arduino Uno + USB Cable
-- 10k resistor
 - Jumper wires
 
 ## Download and Install:
