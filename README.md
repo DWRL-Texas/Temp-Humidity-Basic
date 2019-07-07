@@ -15,11 +15,12 @@ This tutorial shows how to set up a basic temperature and humidity sensor using 
 ## Create Arduino Circuit:
 - Open the **DHT_basic_bb.pdf**  
 
-## Ranges and Accuracy of the DHT11:
+### Ranges and Accuracy of the DHT11:
 
 - Humidity Range: 20-90% RH
 - Humidity Accuracy: ±5% RH
 - Temperature Range: 0-50 °C
 - Temperature Accuracy: ±2% °C
 - Operating Voltage: 3V to 5.5V
-*Info from [CircuitBasics](http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/)
+
+>*Range & Accuracy info from [CircuitBasics](http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/)
